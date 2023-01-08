@@ -1,0 +1,41 @@
+1. 
+* operator
+'hello' value
+-88.8 value
+- operator
+/ operator
++ operator
+5 operator
+
+2.
+spam variable
+'spam' string
+
+3. 
+int, floatpoint, string
+
+4.
+operands (values) and operators
+They reduce down to a single value
+
+5.
+In assignment statement you assign a value to a variable
+In expression you use variable and operators and reduce to get a new value
+
+6.
+20
+
+7.
+spamspamspam
+spamspamspam
+
+8.
+variable name cant begin with a number
+eggs contains letter 'e' as its first character
+
+9.
+int(), float(), str()
+
+10.
+cant concantenate an int value to a string value
+'I have eaten ' + '99' + ' burritos.'

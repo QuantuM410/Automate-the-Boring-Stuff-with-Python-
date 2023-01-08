@@ -1,0 +1,51 @@
+1.
+True, False
+Capital T/F rest in lower case
+
+2.
+And, Or, Not
+
+4.
+False
+False
+True
+False   
+False
+True
+
+5.
+==
+!=
+>
+>=
+<
+<=
+
+6.
+== for comparison between two values
+= to assign a value to a variable
+
+7.
+Conditions always evaluate down to a Boolean value, True or False. A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
+
+8.
+if
+nested if
+else
+
+10.
+ctrl + c
+
+11.
+
+break is used to terminate flow of control or exit the loop
+the program execution immediately jumps back to the start of the loop
+
+12.
+0-9 no starting argument and stepping argument is specified so it takes default starting argument 0 and stepping argument 1
+0-9 starting argument set as 0 but no stepping argument defined so it take defaul stepping argument 1
+0-9 starting argument set as 0 and stepping argument is said to be 1
+
+14.
+import spam
+spam.bacon()

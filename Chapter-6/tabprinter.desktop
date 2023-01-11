@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=tabprinter.py
+Exec=gnome-terminal -- /home/kartikey/tabprinter.sh
+Type=Application
+Categories=GTK;GNOME;Utility;
